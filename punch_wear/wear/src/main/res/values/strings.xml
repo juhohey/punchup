@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PunchUP!</string>
+    <string name="init_title">Start punching...</string>
+    <string name="init_values"></string>
+
+</resources>
